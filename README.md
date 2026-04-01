@@ -13,3 +13,5 @@ You can also adjust the Fuzzy threshold which changes the sensitivity of the hel
 Customizing aliases lets the helper know more weapon interactions. 
 
 Early in development, functional but not complete.
+
+Made with help from Perplexity
