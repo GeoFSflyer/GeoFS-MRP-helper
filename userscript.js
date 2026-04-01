@@ -3,7 +3,7 @@
 // @namespace    https://example.local/mrp-threat-helper
 // @version      16.0.0
 // @description  GeoFS MRP threat helper HUD with expanded weapon table support
-// @author       Perplexity
+// @author       Geo
 // @match        *://*.geofs.com/*
 // @match        *://geofs.com/*
 // @run-at       document-idle
