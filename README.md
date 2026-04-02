@@ -24,6 +24,8 @@ Structual damage at second and third hit.
 
 Engine shut down at third hit.
 
+If you use the helper alongside the realism pack, you will auto eject at the third hit.
+
 ( No damage model )
 
 improvements expected: 
