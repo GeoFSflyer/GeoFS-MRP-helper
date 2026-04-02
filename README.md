@@ -31,8 +31,6 @@ Damage: simulates structual damage.
 
 Simulated structual damage from the second hit.
 
-If you use the helper alongside the realism pack, you will auto eject at the third hit.
-
 improvements expected: 
 + better alarm sound
 + custom aliases require re-entering everytime browser reopens
