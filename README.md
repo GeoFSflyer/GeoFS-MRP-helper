@@ -35,6 +35,7 @@ improvements expected:
 + better alarm sound
 + custom aliases require re-entering everytime browser reopens
 
+Works with 3.9 and 4.0 beta.
 
 Funcional but still in development.
 
