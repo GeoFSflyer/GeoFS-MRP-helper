@@ -1,36 +1,41 @@
-# MRP-threat-helper
-If GeoFS MRP is too choatic or you cannot remeber all the counter measures, the threat helper can help you. 
+# MRPhelper
 
-When people lock on you, the threat helper will immediately notify you and suggest the best counter measure. you could also include extra interactions by customizing aliases.
+The helper improves your GeoFS MRP experience by providing quality of life features like lock warning, damage simulation and counter measure suggestion.
 
 How to install:
+
 1. Copy the bookmarklet.js, make a bookmark and paste it in the url box of it. Open the bookmarklet when you have opened GeoFS to start the helper. 
 2. Paste the userscript.js code into a new file in Tampermonkey. (Functionality not checked)
 
 How to use:
-When you open the helper, choose the settings icon and enter you user name. The helper will check if someone in chat has locked on you and notify. 
+
+When you open the helper, choose the settings icon and enter you user name. 
+
+The helper will check if someone in chat has locked on you and notify. 
+
 You can also adjust the Fuzzy threshold which changes the sensitivity of the helper to typos in chat.
-Customizing aliases lets the helper know more weapon interactions. 
 
-+ Extra bookmarklet version with extra realism features
-
-Adds optional features to the original version to improve realism in MRP dogfights.
+There are three optional features in the helper.
 
 Alarm: alarm sounds for status lock, away, hit and miss.
 
+Counter measure suggestions:
+
+The helper will list out the counter measures required for the current weapon threat.
+
+Customizing aliases lets the helper know more weapon interactions with the format: weapon = counter measure
+
 Damage: simulates structual damage and engine shut down.
 
-Structual damage at second and third hit.
+Simulated structual damage at second and third hit.
 
 Engine shut down at third hit.
 
 If you use the helper alongside the realism pack, you will auto eject at the third hit.
 
-( No damage model )
-
 improvements expected: 
 + better alarm sound
-+ solve engine force shutdown irreversibility unless browser refresh
++ solve engine shutdown irreversibility unless browser refresh
 + custom aliases require re-entering everytime browser reopens
 
 
