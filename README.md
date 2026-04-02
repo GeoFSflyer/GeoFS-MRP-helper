@@ -21,7 +21,9 @@ Alarm: alarm sounds for status lock, away, hit and miss.
 
 Counter measure suggestions:
 
-The helper will list out the counter measures required for the current weapon threat.
+The helper will list out the counter measures required for the current weapon threat. 
+
+Current libary based on GeoFS wiki Realistic roleplay page, approved missile list.
 
 Customizing aliases lets the helper know more weapon interactions with the format: weapon = counter measure
 
